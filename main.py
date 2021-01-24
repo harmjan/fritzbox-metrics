@@ -3,7 +3,6 @@ import time
 from typing import List, Dict, Tuple, Any
 
 import fritzconnection as fc
-from fritzconnection.lib.fritzstatus import FritzStatus
 
 from telegraf.client import TelegrafClient
 
